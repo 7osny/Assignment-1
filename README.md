@@ -12,4 +12,4 @@ This module looks in detail at data storage with MongoDB, the popular NoSQL data
 This module is dedicated to user authentication. We first develop a full-fledged REST API server with Express, Mongo and Mongoose. Thereafter we examine basic authentication and session-based authentication briefly. We then develop token-based authentication with the support of JSON web tokens and the Passport module.
 
 ## Find the course here:
- [Coursera] [https://www.coursera.org/learn/server-side-nodejs/home]
+https://www.coursera.org/learn/server-side-nodejs/home
